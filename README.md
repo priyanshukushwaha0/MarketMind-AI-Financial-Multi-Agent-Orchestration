@@ -1047,39 +1047,13 @@ No real-money transaction is performed.
           Streamlit
 ```
 
----
-
-# Future Enhancements
-
-* LangSmith observability
-* Agent evaluation
-* RAG over annual reports
-* Financial-document ingestion
-* Portfolio P&L dashboard
-* Watchlists
-* Price alerts
-* Backtesting
-* Advanced risk scoring
-* Sector analysis
-* Earnings-call analysis
-* Financial statement RAG
-* Hybrid search
-* Reranking
-* Citation-based financial research
-* Agent performance monitoring
 
 ---
 
-# Disclaimer
+# Project Overview
 
-This project is developed for **educational, research, and paper-trading purposes**.
+This project is developed for **research, and paper-trading purposes**.
 
 The virtual BUY/SELL system does not place real-money orders. Market data and AI-generated analysis may contain errors, delays, or incomplete information. Users should independently verify financial information before making real investment decisions.
 
 ---
-
-# Author
-
-**Priyanshu Kushwaha**
-
-AI / Generative AI Developer
